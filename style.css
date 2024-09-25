@@ -1,0 +1,125 @@
+body {
+    width: 320px;
+    font-family: 'Arial', sans-serif;
+    background-color: #282828;
+    color: #e0e0e0;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    margin: 0;
+}
+
+h3 {
+    margin: 0 0 15px;
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.tab-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background-color: #3c3c3c;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+.tab-item:hover {
+    background-color: #4c4c4c;
+}
+
+.tab-item.selected {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+.checkmark {
+    display: none;
+    color: #ffffff;
+}
+
+.tab-item.selected .checkmark {
+    display: inline;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.options {
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #444;
+}
+
+.options h4 {
+    font-size: 18px;
+    margin: 0 0 10px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.keybind {
+    margin: 8px 0;
+    color: #e0e0e0;
+    text-align: center;
+    font-size: 14px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #2c2c2c;
+    transition: background-color 0.3s;
+}
+
+.keybind:hover {
+    background-color: #3c3c3c;
+}
+
+.logo-container {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.logo {
+    width: 80px;
+    height: auto;
+}
+
+.github-container {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.github-link {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.github-link:hover {
+    text-decoration: underline;
+}
+
+.version {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #e0e0e0;
+}
