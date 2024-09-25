@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "TabZ",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "lightweight and user-friendly extension for splitting tabs.",
     "permissions": ["tabs", "contextMenus"],
     "background": {
