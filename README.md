@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width= 240px src="logo.png">
+<img width= 240px src="assets/logo.png">
 
 ## A lightweight and user-friendly extension for splitting tabs
 
@@ -22,8 +22,8 @@
 
 | Browser                                | Download                                                                                                                                                                |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chromium-based (Chrome, Edge, Brave) | [<img src="download-chrome.svg" height="53" alt="Chromium Download">]() |
-| Firefox-based (Firefox, Floorp, Zen) | [<img src="download-firefox.svg" height="53" alt="Firefox Download">]() |
+| Chromium-based (Chrome, Edge, Brave) | [<img src="assets/download-chrome.svg" height="53" alt="Chromium Download">]() |
+| Firefox-based (Firefox, Floorp, Zen) | [<img src="assets/download-firefox.svg" height="53" alt="Firefox Download">]() |
 
 ## Usage
 
@@ -37,7 +37,7 @@
 
 ## Showcase
 
-<img src="showcase.png" alt="showcase" width="240px"> <!-- Adjust width as needed -->
+<img src="assets/showcase.png" alt="showcase" width="240px"> <!-- Adjust width as needed -->
 
 ## License
 
