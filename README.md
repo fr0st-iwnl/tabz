@@ -22,8 +22,10 @@
 
 | Browser                                | Download                                                                                                                                                                |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chromium-based (Chrome, Edge, Brave) | [<img src="assets/download-chrome.svg" height="53" alt="Chromium Download">]() |
-| Firefox-based (Firefox, Floorp, Zen) | [<img src="assets/download-firefox.svg" height="53" alt="Firefox Download">]() |
+|  Chromium-based (Chrome, Edge, Brave) | <div align="center"> :x: </div>  |
+| Firefox-based (Firefox, Floorp, Zen) | [<img src="assets/download-firefox.svg" height="53" alt="Firefox Download">](https://addons.mozilla.org/en-US/firefox/addon/tabz-extension/) |
+
+
 
 ## Usage
 
